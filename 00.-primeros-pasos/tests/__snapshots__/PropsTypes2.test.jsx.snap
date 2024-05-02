@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en PropsTypes debe hace un match con el snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    Hola, soy justin
+  </h1>
+  <p>
+    No hay subtitle
+  </p>
+</div>
+`;
